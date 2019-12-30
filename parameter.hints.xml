@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="jw.wlms.service.SendoutOrderService.deleteByOrderId(id,clientId)" />
+        <added pattern="com.unittec.micro.provider.harbour.service.DealOrderWqService.findOrderItemByGoodIdAndPlanType(goodId,planType)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

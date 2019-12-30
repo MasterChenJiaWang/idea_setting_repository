@@ -1,0 +1,22 @@
+<templateSet group="MyGroup">
+  <template name="ztmb" value="try {&#10;    TimeUnit.SECONDS.sleep(1);&#10;} catch (InterruptedException e) {&#10;    e.printStackTrace();&#10;}" description="线程暂停秒" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="xcmb" value="new Thread(() -&gt; {&#10;&#10;        }, &quot;&quot;).start();" description="线程模版" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="snull" value=" if(StringUtils.isEmpty()){&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sht" value=" if(StringUtils.hasText()){&#10; &#10; }" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
