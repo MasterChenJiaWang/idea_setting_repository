@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exception when publishing, exception message [Exec timed out or was interrupted after 120,000 ms]" />
       <item value="select" />
       <item value="监控" />
       <item value="and" />
