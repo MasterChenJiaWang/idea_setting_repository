@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="投屏" />
       <item value="移下屏幕" />
       <item value="throwing Screen" />
       <item value="main" />
@@ -45,7 +46,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
