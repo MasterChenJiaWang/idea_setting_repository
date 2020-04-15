@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="移下屏幕" />
+      <item value="throwing Screen" />
       <item value="main" />
       <item value="Exception when publishing, exception message [Exec timed out or was interrupted after 120,000 ms]" />
       <item value="select" />
@@ -43,7 +45,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
     </option>
