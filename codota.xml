@@ -14,6 +14,11 @@
         <entry key="java-deep-completions" value="true" />
       </map>
     </option>
+    <option name="testedFeatureFlags">
+      <set>
+        <option value="js-deep-completions" />
+      </set>
+    </option>
     <option name="everTurnedOnFeatureFlags">
       <set>
         <option value="java-deep-completions" />
@@ -21,12 +26,13 @@
     </option>
     <option name="completeIndexingProjects">
       <map>
-        <entry key="534da34e" value="3" />
+        <entry key="534da34e" value="4" />
       </map>
     </option>
     <option name="usedLanguages">
       <set>
         <option value="java" />
+        <option value="javascript" />
       </set>
     </option>
   </component>
