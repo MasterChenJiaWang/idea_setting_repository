@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tuichu" />
       <item value="remote Address" />
       <item value="完成代办" />
       <item value="Found a call to a method which will perform a byte to String (or String to byte) conversion, and will assume that the default platform encoding is suitable. This will cause the application behaviour to vary between platforms. Use an alternative API and specify a charset name or Charset object explicitly." />
@@ -50,11 +51,10 @@
       <item value="结束" />
       <item value="Jun" />
       <item value="13-Jun-2018 03:13" />
-      <item value="Jan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
+        <entry key="CHINESE" value="46" />
         <entry key="ENGLISH" value="46" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
       </map>
