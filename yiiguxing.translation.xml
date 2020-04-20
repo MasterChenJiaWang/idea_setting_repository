@@ -1,6 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
+      <item value="处理" />
+      <item value="competence" />
+      <item value="权限" />
+      <item value="reason For Rejection" />
+      <item value="驳回" />
+      <item value="是否驳回" />
+      <item value="指定" />
+      <item value="延期审核" />
+      <item value="归档" />
+      <item value=" 确认完成" />
+      <item value="原因填报" />
+      <item value="finish" />
+      <item value="结束" />
+      <item value="Fininsh" />
+      <item value="结束巡检" />
+      <item value="继续巡检" />
+      <item value="审核" />
       <item value="tuichu" />
       <item value="remote Address" />
       <item value="完成代办" />
@@ -33,30 +51,13 @@
       <item value="细胞" />
       <item value="排位号" />
       <item value="排号" />
-      <item value="区位" />
-      <item value="row" />
-      <item value="排" />
-      <item value="column" />
-      <item value="rela" />
-      <item value="helf" />
-      <item value="坐标" />
-      <item value="贝位" />
-      <item value="贝位号" />
-      <item value="begin" />
-      <item value="起始" />
-      <item value="area" />
-      <item value="rea" />
-      <item value="yard" />
-      <item value="result" />
-      <item value="结束" />
-      <item value="Jun" />
-      <item value="13-Jun-2018 03:13" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="51" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
+        <entry key="UZBEK" value="1" />
       </map>
     </option>
   </component>
