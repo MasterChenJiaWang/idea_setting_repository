@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未执行" />
       <item value="驳回审核" />
       <item value="驳回审核结果'" />
       <item value="驳回审核结果" />
@@ -50,7 +51,6 @@
       <item value="重复" />
       <item value="默认" />
       <item value="整体" />
-      <item value="分割" />
     </histories>
     <option name="languageScores">
       <map>
