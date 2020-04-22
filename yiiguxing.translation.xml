@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转发" />
+      <item value="转办" />
       <item value="RESOLVED" />
       <item value="PENDING" />
       <item value="milliseconds" />
@@ -49,13 +51,11 @@
       <item value="and" />
       <item value="need type_4" />
       <item value="cell code left end" />
-      <item value="判断" />
-      <item value="only" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
