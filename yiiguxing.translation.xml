@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未完成原因" />
+      <item value="未完成" />
+      <item value="评价级别" />
+      <item value="评价描述" />
+      <item value="评价" />
       <item value="select" />
       <item value="选择" />
       <item value="continue" />
@@ -46,16 +51,11 @@
       <item value="结束" />
       <item value="Fininsh" />
       <item value="结束巡检" />
-      <item value="tuichu" />
-      <item value="remote Address" />
-      <item value="完成代办" />
-      <item value="Found a call to a method which will perform a byte to String (or String to byte) conversion, and will assume that the default platform encoding is suitable. This will cause the application behaviour to vary between platforms. Use an alternative API and specify a charset name or Charset object explicitly." />
-      <item value="Returning a reference to a mutable object value stored in one of the object's fields exposes the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Returning a new copy of the object is better approach in many situations." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
