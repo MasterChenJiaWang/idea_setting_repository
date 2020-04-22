@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="继续巡检" />
       <item value="审批" />
       <item value="overrule" />
       <item value="驳回" />
@@ -38,7 +39,6 @@
       <item value="结束" />
       <item value="Fininsh" />
       <item value="结束巡检" />
-      <item value="继续巡检" />
       <item value="tuichu" />
       <item value="remote Address" />
       <item value="完成代办" />
