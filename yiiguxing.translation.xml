@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已完成" />
+      <item value="归档" />
       <item value="审核" />
       <item value="审核中" />
       <item value="运行中" />
@@ -26,7 +28,6 @@
       <item value="是否驳回" />
       <item value="指定" />
       <item value="延期审核" />
-      <item value="归档" />
       <item value=" 确认完成" />
       <item value="原因填报" />
       <item value="finish" />
@@ -50,7 +51,6 @@
       <item value="main" />
       <item value="Exception when publishing, exception message [Exec timed out or was interrupted after 120,000 ms]" />
       <item value="select" />
-      <item value="监控" />
     </histories>
     <option name="languageScores">
       <map>
