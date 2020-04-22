@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已暂停" />
       <item value="继续巡检" />
       <item value="审批" />
       <item value="overrule" />
@@ -50,7 +51,6 @@
       <item value="Using where; Using temporary; Using filesort" />
       <item value="Cache Evict" />
       <item value="投屏" />
-      <item value="移下屏幕" />
     </histories>
     <option name="languageScores">
       <map>
