@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="deploy" />
       <item value="未执行" />
       <item value="驳回审核" />
@@ -50,7 +51,6 @@
       <item value="only" />
       <item value="已经存在" />
       <item value="重复" />
-      <item value="默认" />
     </histories>
     <option name="languageScores">
       <map>
