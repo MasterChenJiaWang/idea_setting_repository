@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RESOLVED" />
       <item value="PENDING" />
       <item value="milliseconds" />
       <item value="deploy" />
@@ -50,7 +51,6 @@
       <item value="cell code left end" />
       <item value="判断" />
       <item value="only" />
-      <item value="已经存在" />
     </histories>
     <option name="languageScores">
       <map>
