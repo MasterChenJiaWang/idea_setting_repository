@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="延期时间" />
+      <item value="审批" />
+      <item value="overrule" />
+      <item value="驳回" />
       <item value="理由" />
+      <item value="延期时间" />
       <item value="申请延期" />
       <item value="已完成" />
       <item value="归档" />
@@ -26,7 +29,6 @@
       <item value="competence" />
       <item value="权限" />
       <item value="reason For Rejection" />
-      <item value="驳回" />
       <item value="是否驳回" />
       <item value="指定" />
       <item value="延期审核" />
@@ -49,13 +51,11 @@
       <item value="Cache Evict" />
       <item value="投屏" />
       <item value="移下屏幕" />
-      <item value="throwing Screen" />
-      <item value="main" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
