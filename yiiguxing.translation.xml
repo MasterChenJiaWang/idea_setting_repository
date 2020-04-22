@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select" />
+      <item value="选择" />
+      <item value="continue" />
+      <item value="继续" />
+      <item value="是否全部完成" />
+      <item value="继续巡检选择" />
       <item value="已暂停" />
       <item value="继续巡检" />
       <item value="审批" />
@@ -45,17 +51,11 @@
       <item value="完成代办" />
       <item value="Found a call to a method which will perform a byte to String (or String to byte) conversion, and will assume that the default platform encoding is suitable. This will cause the application behaviour to vary between platforms. Use an alternative API and specify a charset name or Charset object explicitly." />
       <item value="Returning a reference to a mutable object value stored in one of the object's fields exposes the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Returning a new copy of the object is better approach in many situations." />
-      <item value="This code stores a reference to an externally mutable object into the internal representation of the object.  If instances are accessed by untrusted code, and unchecked changes to the mutable object would compromise security or other important properties, you will need to do something different. Storing a copy of the object is better approach in many situations." />
-      <item value="This public method declared in public enum unconditionally sets enum field, thus this field can be changed by malicious code or by accident from another package. Though mutable enum fields may be used for lazy initialization, it's a bad practice to expose them to the outer world. Consider removing this method or declaring it package-private." />
-      <item value="The fields of this class appear to be accessed inconsistently with respect to synchronization.  This bug report indicates that the bug pattern detector judged that The class contains a mix of locked and unlocked accesses, The class is not annotated as javax.annotation.concurrent.NotThreadSafe, At least one locked access was performed by one of the class's own methods, and The number of unsynchronized field accesses (reads and writes) was no more than one third of all accesses, with writes being weighed twice as high as reads A typical bug matching this bug pattern is forgetting to synchronize one of the methods in a class that is intended to be thread-safe. You can select the nodes labeled &quot;Unsynchronized access&quot; to show the code locations where the detector believed that a field was accessed without synchronization. Note that there are various sources of inaccuracy in this detector; for example, the detector cannot statically detect all situations in which a lock is held.  Also, even when the detector is accurate in distinguishing locked vs. unlocked accesses, the code in question may still be correct." />
-      <item value="Using where; Using temporary; Using filesort" />
-      <item value="Cache Evict" />
-      <item value="投屏" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="55" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
