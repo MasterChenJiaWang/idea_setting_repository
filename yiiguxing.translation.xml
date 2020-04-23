@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="叠放" />
+      <item value="重箱" />
+      <item value="相同订单" />
+      <item value="最少" />
+      <item value="最少推荐位数" />
       <item value="配置" />
       <item value="推荐位" />
       <item value="解析" />
@@ -46,11 +51,6 @@
       <item value="handle" />
       <item value="处理" />
       <item value="competence" />
-      <item value="权限" />
-      <item value="reason For Rejection" />
-      <item value="是否驳回" />
-      <item value="指定" />
-      <item value="延期审核" />
     </histories>
     <option name="languageScores">
       <map>
