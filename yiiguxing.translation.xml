@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="配置" />
+      <item value="推荐位" />
       <item value="解析" />
       <item value="上面" />
       <item value=" Lock wait timeout exceeded; try restarting transaction" />
@@ -49,8 +51,6 @@
       <item value="是否驳回" />
       <item value="指定" />
       <item value="延期审核" />
-      <item value=" 确认完成" />
-      <item value="原因填报" />
     </histories>
     <option name="languageScores">
       <map>
