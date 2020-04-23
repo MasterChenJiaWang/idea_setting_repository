@@ -122,6 +122,10 @@
           <option name="url" value="http://chenjiawang@121.40.171.38/ZhongKun/site-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://chenjiawang@121.40.171.38/ZhongKun/station-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Users\chenjiawang\idea\20200413" />
