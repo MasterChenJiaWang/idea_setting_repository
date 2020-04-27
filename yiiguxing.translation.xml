@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参数" />
+      <item value="审核" />
       <item value="Field" />
       <item value="publish" />
       <item value="Issued" />
@@ -47,15 +49,13 @@
       <item value="申请延期" />
       <item value="已完成" />
       <item value="归档" />
-      <item value="审核" />
       <item value="审核中" />
       <item value="运行中" />
-      <item value="未开始" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
