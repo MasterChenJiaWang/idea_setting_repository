@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ClusterManager" />
       <item value="Push master to origin/master was rejected by remote" />
       <item value="智慧铁路道口" />
       <item value="铁路道口" />
@@ -50,7 +51,6 @@
       <item value="overrule" />
       <item value="驳回" />
       <item value="理由" />
-      <item value="延期时间" />
     </histories>
     <option name="languageScores">
       <map>
