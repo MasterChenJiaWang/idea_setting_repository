@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="智慧铁路道口" />
+      <item value="铁路道口" />
+      <item value="智慧道口" />
       <item value="获取审核参数信息" />
       <item value="参数" />
       <item value="审核" />
@@ -48,9 +51,6 @@
       <item value="理由" />
       <item value="延期时间" />
       <item value="申请延期" />
-      <item value="已完成" />
-      <item value="归档" />
-      <item value="审核中" />
     </histories>
     <option name="languageScores">
       <map>
