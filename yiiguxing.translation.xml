@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stack Over flow Error" />
+      <item value="StackOverflowError" />
       <item value="handle" />
       <item value="处理" />
       <item value=" for" />
@@ -49,8 +51,6 @@
       <item value="select" />
       <item value="选择" />
       <item value="continue" />
-      <item value="继续" />
-      <item value="是否全部完成" />
     </histories>
     <option name="languageScores">
       <map>
