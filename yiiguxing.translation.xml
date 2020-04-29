@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核" />
       <item value="ClusterManager" />
       <item value="Push master to origin/master was rejected by remote" />
       <item value="智慧铁路道口" />
@@ -8,7 +9,6 @@
       <item value="智慧道口" />
       <item value="获取审核参数信息" />
       <item value="参数" />
-      <item value="审核" />
       <item value="Field" />
       <item value="publish" />
       <item value="Issued" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
