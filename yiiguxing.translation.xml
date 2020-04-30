@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exposed" />
+      <item value="Exposed Header" />
+      <item value="add ExposedHeader" />
       <item value="Stack Over flow Error" />
       <item value="StackOverflowError" />
       <item value="handle" />
@@ -48,9 +51,6 @@
       <item value="评价级别" />
       <item value="评价描述" />
       <item value="评价" />
-      <item value="select" />
-      <item value="选择" />
-      <item value="continue" />
     </histories>
     <option name="languageScores">
       <map>
