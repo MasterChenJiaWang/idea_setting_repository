@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete" />
+      <item value="完成" />
       <item value=" Cannot resolve identifier 'begin_due_date'" />
       <item value="Exposed" />
       <item value="Exposed Header" />
@@ -49,13 +51,11 @@
       <item value="自动归档时间" />
       <item value="未完成原因" />
       <item value="未完成" />
-      <item value="评价级别" />
-      <item value="评价描述" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="63" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
