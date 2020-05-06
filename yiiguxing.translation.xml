@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="criteria" />
+      <item value="unfinished" />
+      <item value="未完成" />
       <item value="complete" />
       <item value="完成" />
       <item value=" Cannot resolve identifier 'begin_due_date'" />
@@ -48,14 +51,11 @@
       <item value="解析" />
       <item value="上面" />
       <item value=" Lock wait timeout exceeded; try restarting transaction" />
-      <item value="自动归档时间" />
-      <item value="未完成原因" />
-      <item value="未完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
