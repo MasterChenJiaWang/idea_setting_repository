@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select" />
+      <item value="选择" />
+      <item value="处理选择" />
+      <item value="撤销" />
+      <item value="驳回" />
       <item value="criteria" />
       <item value="unfinished" />
       <item value="未完成" />
@@ -37,7 +42,6 @@
       <item value="candidate Group" />
       <item value="We use Java Logging to avoid any third party logging requirements." />
       <item value="存在" />
-      <item value="撤销" />
       <item value="拾取" />
       <item value="USE_EXPECT_CONTINUE" />
       <item value="重启巡检" />
@@ -47,15 +51,11 @@
       <item value="最少" />
       <item value="最少推荐位数" />
       <item value="配置" />
-      <item value="推荐位" />
-      <item value="解析" />
-      <item value="上面" />
-      <item value=" Lock wait timeout exceeded; try restarting transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="65" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
