@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核" />
       <item value="select" />
       <item value="选择" />
       <item value="处理选择" />
@@ -24,7 +25,6 @@
       <item value="申请" />
       <item value="申请参数" />
       <item value="业务" />
-      <item value="审核" />
       <item value="ClusterManager" />
       <item value="Push master to origin/master was rejected by remote" />
       <item value="智慧铁路道口" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
