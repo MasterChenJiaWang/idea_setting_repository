@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Native" />
       <item value="审核" />
       <item value="select" />
       <item value="选择" />
@@ -50,11 +51,10 @@
       <item value="相同订单" />
       <item value="最少" />
       <item value="最少推荐位数" />
-      <item value="配置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
