@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="完成审批" />
       <item value="opinion" />
       <item value="reason for application" />
       <item value="reason_for_application" />
@@ -50,12 +51,11 @@
       <item value="获取审核参数信息" />
       <item value="参数" />
       <item value="Field" />
-      <item value="publish" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
