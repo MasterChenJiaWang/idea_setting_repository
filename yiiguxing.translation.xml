@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="opinion" />
+      <item value="reason for application" />
+      <item value="reason_for_application" />
+      <item value="operator" />
+      <item value="评分" />
+      <item value="上报故障" />
+      <item value="完成结果" />
+      <item value="关闭时间" />
+      <item value="申请完成时间" />
+      <item value="审核结果" />
+      <item value="意见" />
+      <item value="申请理由" />
+      <item value="操作时间" />
+      <item value="操作人" />
+      <item value="执行人" />
+      <item value="计划完成时间" />
       <item value="Native" />
       <item value="审核" />
       <item value="select" />
@@ -35,27 +51,11 @@
       <item value="参数" />
       <item value="Field" />
       <item value="publish" />
-      <item value="Issued" />
-      <item value="下发" />
-      <item value="提前通知时间" />
-      <item value="消息通知" />
-      <item value="candidate group" />
-      <item value="candidate Group" />
-      <item value="We use Java Logging to avoid any third party logging requirements." />
-      <item value="存在" />
-      <item value="拾取" />
-      <item value="USE_EXPECT_CONTINUE" />
-      <item value="重启巡检" />
-      <item value="叠放" />
-      <item value="重箱" />
-      <item value="相同订单" />
-      <item value="最少" />
-      <item value="最少推荐位数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="67" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
