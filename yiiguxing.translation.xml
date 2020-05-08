@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CONTAINER" />
+      <item value="requires at least 1 argument" />
+      <item value="Disconnecting configuration" />
+      <item value="Transferred 1 file" />
+      <item value="No command specified" />
       <item value="同步" />
       <item value="默认" />
       <item value="来源" />
@@ -46,15 +51,10 @@
       <item value="apply for" />
       <item value="申请" />
       <item value="申请参数" />
-      <item value="业务" />
-      <item value="ClusterManager" />
-      <item value="Push master to origin/master was rejected by remote" />
-      <item value="智慧铁路道口" />
-      <item value="铁路道口" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
+        <entry key="CHINESE" value="69" />
         <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
