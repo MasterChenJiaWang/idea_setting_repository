@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unassigned" />
+      <item value="un assigned" />
+      <item value="扫一扫确认巡检" />
       <item value="主动" />
       <item value="数据同步" />
       <item value="未来" />
@@ -48,13 +51,10 @@
       <item value=" Cannot resolve identifier 'begin_due_date'" />
       <item value="Exposed" />
       <item value="Exposed Header" />
-      <item value="add ExposedHeader" />
-      <item value="Stack Over flow Error" />
-      <item value="StackOverflowError" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="ENGLISH" value="70" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
