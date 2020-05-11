@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="处理人" />
       <item value="权限" />
       <item value="Authority" />
       <item value="审批" />
@@ -50,7 +51,6 @@
       <item value="unfinished" />
       <item value="未完成" />
       <item value="complete" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
