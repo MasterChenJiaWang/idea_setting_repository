@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="x" />
       <item value="处理人" />
       <item value="权限" />
       <item value="Authority" />
@@ -50,12 +51,11 @@
       <item value="criteria" />
       <item value="unfinished" />
       <item value="未完成" />
-      <item value="complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
