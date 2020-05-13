@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the actual value was not equal to the expected value" />
+      <item value="the expected value" />
+      <item value="if the current value" />
+      <item value="Atomically sets the value to the given updated value" />
+      <item value="原子" />
       <item value="netty" />
       <item value="x" />
       <item value="处理人" />
@@ -46,16 +51,11 @@
       <item value="审核" />
       <item value="select" />
       <item value="选择" />
-      <item value="处理选择" />
-      <item value="撤销" />
-      <item value="驳回" />
-      <item value="criteria" />
-      <item value="unfinished" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
       </map>
