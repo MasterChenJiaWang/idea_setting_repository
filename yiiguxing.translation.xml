@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Out of range value for column " />
       <item value="描述" />
       <item value="the actual value was not equal to the expected value" />
       <item value="the expected value" />
@@ -50,11 +51,10 @@
       <item value="计划完成时间" />
       <item value="Native" />
       <item value="审核" />
-      <item value="select" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
+        <entry key="CHINESE" value="75" />
         <entry key="ENGLISH" value="75" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
