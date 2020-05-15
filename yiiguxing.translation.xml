@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作人" />
       <item value="业务" />
       <item value="was not registered for synchronization because synchronization is not active" />
       <item value="unusual" />
       <item value="异常" />
-      <item value="操作人" />
       <item value="Out of range value for column " />
       <item value="描述" />
       <item value="the actual value was not equal to the expected value" />
