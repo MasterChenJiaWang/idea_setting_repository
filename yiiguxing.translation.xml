@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delay" />
+      <item value="iterations" />
       <item value="Using join buffer (Block Nested Loop)" />
       <item value="Using filesort" />
       <item value="Using temporary" />
@@ -49,8 +51,6 @@
       <item value="Service Temporarily Unavailable" />
       <item value="完成审批" />
       <item value="opinion" />
-      <item value="reason for application" />
-      <item value="reason_for_application" />
     </histories>
     <option name="languageScores">
       <map>
