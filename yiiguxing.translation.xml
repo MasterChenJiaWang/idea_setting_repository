@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kermit" />
       <item value="Unit not found" />
       <item value="SELECT list is not in GROUP BY clause and contains nonaggregated column 'crossing_device.it.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by" />
       <item value="defined as  a key" />
@@ -50,7 +51,6 @@
       <item value="CONTAINER" />
       <item value="requires at least 1 argument" />
       <item value="Disconnecting configuration" />
-      <item value="Transferred 1 file" />
     </histories>
     <option name="languageScores">
       <map>
