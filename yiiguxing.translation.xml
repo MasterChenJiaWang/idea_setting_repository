@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enabled" />
       <item value=" No such file or directory" />
       <item value="Push master to origin/master was rejected by remote" />
       <item value="Millis" />
@@ -50,7 +51,6 @@
       <item value="处理人" />
       <item value="权限" />
       <item value="Authority" />
-      <item value="审批" />
     </histories>
     <option name="languageScores">
       <map>
