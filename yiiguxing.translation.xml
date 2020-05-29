@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser" />
       <item value="The error occurred while setting parameters" />
       <item value="enabled" />
       <item value=" No such file or directory" />
@@ -50,7 +51,6 @@
       <item value="netty" />
       <item value="x" />
       <item value="处理人" />
-      <item value="权限" />
     </histories>
     <option name="languageScores">
       <map>
