@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reconnected" />
       <item value="Exception caught" />
       <item value="not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser" />
       <item value="The error occurred while setting parameters" />
@@ -50,7 +51,6 @@
       <item value="Atomically sets the value to the given updated value" />
       <item value="原子" />
       <item value="netty" />
-      <item value="x" />
     </histories>
     <option name="languageScores">
       <map>
