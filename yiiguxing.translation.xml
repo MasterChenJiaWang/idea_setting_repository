@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abnormal" />
+      <item value="异常" />
       <item value="业务Id" />
       <item value="operate" />
       <item value="操作" />
@@ -48,13 +50,11 @@
       <item value="业务" />
       <item value="was not registered for synchronization because synchronization is not active" />
       <item value="unusual" />
-      <item value="异常" />
       <item value="Out of range value for column " />
-      <item value="描述" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
+        <entry key="CHINESE" value="82" />
         <entry key="ENGLISH" value="82" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
