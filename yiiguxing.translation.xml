@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Bean already defined with the same name" />
+      <item value="No URLs will be polled as dynamic configuration sources." />
+      <item value=" You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project." />
       <item value="Truncated incorrect DOUBLE" />
       <item value="已完成" />
       <item value="Invalid use of group function" />
@@ -48,9 +51,6 @@
       <item value="time consuming" />
       <item value="耗时" />
       <item value="用时" />
-      <item value="巡检距离" />
-      <item value="Enable" />
-      <item value="操作人" />
     </histories>
     <option name="languageScores">
       <map>
