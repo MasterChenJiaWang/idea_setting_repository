@@ -9,4 +9,6 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="leoklo.StackTraceToUML.open.text" />
+  <action id="leoklo.StackTraceToUML.open.window" />
 </keymap>
