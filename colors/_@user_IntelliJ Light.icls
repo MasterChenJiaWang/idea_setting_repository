@@ -4,7 +4,7 @@
     <property name="created">2020-06-11T18:20:43</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-11T18:31:30</property>
+    <property name="modified">2020-06-12T09:48:11</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -350,7 +350,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="80808" />
-        <option name="BACKGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="c7edcc" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
