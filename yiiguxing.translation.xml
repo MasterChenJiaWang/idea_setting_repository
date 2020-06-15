@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consume" />
       <item value="中文" />
       <item value="Integrated tools for Zeppelin, Spark, and S3" />
       <item value=" There was a problem with the instance info replicator" />
@@ -50,11 +51,10 @@
       <item value="Using filesort" />
       <item value="Using temporary" />
       <item value="CAMERA" />
-      <item value="separator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
+        <entry key="CHINESE" value="85" />
         <entry key="ENGLISH" value="85" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
