@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Connection refused: no further information" />
       <item value="拼接" />
       <item value="模板" />
       <item value=" Failure updating scheduler state when checking-in: Lock wait timeout exceeded; try restarting transaction" />
@@ -50,11 +51,10 @@
       <item value="The system cannot find the file specified" />
       <item value="exchange fallback execution rejected." />
       <item value="delay" />
-      <item value="iterations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
+        <entry key="CHINESE" value="86" />
         <entry key="ENGLISH" value="86" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
