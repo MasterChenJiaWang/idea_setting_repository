@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="成交金额" />
+      <item value="资产数量" />
+      <item value="单位名称" />
       <item value="工厂" />
       <item value="handler" />
       <item value="字段" />
@@ -48,9 +51,6 @@
       <item value="to Millis" />
       <item value="SECONDS" />
       <item value="Message crcCode invlid:0" />
-      <item value="You can pass it via the constructor. Just checkout the javadocs." />
-      <item value=" Adjusted frame length exceeds 1048576: 2332223 - discarded" />
-      <item value="decode" />
     </histories>
     <option name="languageScores">
       <map>
