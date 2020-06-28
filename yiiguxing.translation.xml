@@ -1,13 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Dup" />
+      <item value="Mqtt Publish Message" />
+      <item value="Pub" />
+      <item value="Topic" />
+      <item value="save Retain" />
+      <item value="Memory Channel Manager" />
+      <item value="Transport Connection" />
+      <item value="Disposable" />
+      <item value="connections" />
       <item value="Retain" />
       <item value="accept" />
       <item value="Exceptor Acceptor" />
       <item value="protocol" />
       <item value="protocal" />
       <item value="harbor" />
-      <item value="save Retain" />
       <item value="enable" />
       <item value="READ COMPLETE" />
       <item value="block terminated with an error" />
@@ -43,14 +51,6 @@
       <item value="Integrated tools for Zeppelin, Spark, and S3" />
       <item value=" There was a problem with the instance info replicator" />
       <item value=" Bean already defined with the same name" />
-      <item value="No URLs will be polled as dynamic configuration sources." />
-      <item value=" You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project." />
-      <item value="Truncated incorrect DOUBLE" />
-      <item value="已完成" />
-      <item value="Invalid use of group function" />
-      <item value="业务" />
-      <item value="abnormal" />
-      <item value="异常" />
     </histories>
     <option name="languageScores">
       <map>
