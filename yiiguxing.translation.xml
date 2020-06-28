@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subscribe" />
       <item value="Adaptor" />
       <item value="Direct" />
       <item value="Direct Handler Factory" />
@@ -8,7 +9,6 @@
       <item value="Will" />
       <item value="CONNECTION REFUSED BAD USER NAME OR PASSWORD" />
       <item value="ack" />
-      <item value="subscribe" />
       <item value="is Dup" />
       <item value="Mqtt Publish Message" />
       <item value="Pub" />
