@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="READ COMPLETE" />
+      <item value="block terminated with an error" />
       <item value="Unrecognized SSL message, plaintext connection" />
       <item value="producer" />
       <item value="Cannot parse topic" />
@@ -49,8 +51,6 @@
       <item value="Reconnected" />
       <item value="Exception caught" />
       <item value="not recognized as one since Feature 'ALLOW_COMMENTS' not enabled for parser" />
-      <item value="The error occurred while setting parameters" />
-      <item value="enabled" />
     </histories>
     <option name="languageScores">
       <map>
