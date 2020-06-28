@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accept" />
       <item value="Will" />
       <item value="CONNECTION REFUSED BAD USER NAME OR PASSWORD" />
       <item value="ack" />
@@ -15,7 +16,6 @@
       <item value="Disposable" />
       <item value="connections" />
       <item value="Retain" />
-      <item value="accept" />
       <item value="Exceptor Acceptor" />
       <item value="protocol" />
       <item value="protocal" />
