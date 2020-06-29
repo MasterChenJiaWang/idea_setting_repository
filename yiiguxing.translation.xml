@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="待发送的数据" />
+      <item value="retry" />
       <item value="响应" />
+      <item value="待发送的数据" />
       <item value="请求" />
       <item value="receive" />
       <item value="收到" />
@@ -10,7 +11,6 @@
       <item value="topic" />
       <item value="invalidate" />
       <item value="record Stats" />
-      <item value="retry" />
       <item value="接收" />
       <item value="处理器" />
       <item value="Acceptor" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
+        <entry key="CHINESE" value="91" />
         <entry key="ENGLISH" value="91" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
