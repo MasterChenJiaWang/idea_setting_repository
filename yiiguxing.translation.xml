@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="响应" />
       <item value="处理器" />
       <item value="retry" />
-      <item value="响应" />
       <item value="待发送的数据" />
       <item value="请求" />
       <item value="receive" />
