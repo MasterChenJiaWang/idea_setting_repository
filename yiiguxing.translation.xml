@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disposable" />
+      <item value="Attribute" />
       <item value="client Id entifier" />
       <item value="Identifier rejected" />
       <item value="subscribe" />
@@ -35,7 +37,6 @@
       <item value="save Retain" />
       <item value="Memory Channel Manager" />
       <item value="Transport Connection" />
-      <item value="Disposable" />
       <item value="connections" />
       <item value="Retain" />
       <item value="Exceptor Acceptor" />
@@ -50,7 +51,6 @@
       <item value="Cannot parse topic" />
       <item value="login failed for server_unavailable" />
       <item value="present" />
-      <item value="成交金额" />
     </histories>
     <option name="languageScores">
       <map>
