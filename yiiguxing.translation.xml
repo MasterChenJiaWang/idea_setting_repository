@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="响应" />
       <item value="Disposable" />
       <item value="Attribute" />
       <item value="client Id entifier" />
@@ -10,7 +11,6 @@
       <item value="invalid" />
       <item value="失效" />
       <item value="内存" />
-      <item value="响应" />
       <item value="处理器" />
       <item value="retry" />
       <item value="待发送的数据" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
