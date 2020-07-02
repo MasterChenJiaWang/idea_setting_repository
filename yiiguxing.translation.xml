@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="服务商" />
       <item value="响应" />
       <item value="Disposable" />
       <item value="Attribute" />
@@ -50,7 +51,6 @@
       <item value="producer" />
       <item value="Cannot parse topic" />
       <item value="login failed for server_unavailable" />
-      <item value="present" />
     </histories>
     <option name="languageScores">
       <map>
