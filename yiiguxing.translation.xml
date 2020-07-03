@@ -1,13 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="client Connection Attribute Key" />
+      <item value="Write Idle" />
+      <item value="WriteIdle" />
+      <item value="on Write Idle" />
+      <item value="Direct" />
+      <item value="Disposable" />
+      <item value="repeat" />
+      <item value="delay Subscription" />
+      <item value="retry Pooled Connection Provider" />
+      <item value="subscribe" />
       <item value="服务商" />
       <item value="响应" />
-      <item value="Disposable" />
       <item value="Attribute" />
       <item value="client Id entifier" />
       <item value="Identifier rejected" />
-      <item value="subscribe" />
       <item value="过期" />
       <item value="invalid" />
       <item value="失效" />
@@ -25,7 +33,6 @@
       <item value="接收" />
       <item value="Acceptor" />
       <item value="Adaptor" />
-      <item value="Direct" />
       <item value="Direct Handler Factory" />
       <item value="accept" />
       <item value="Will" />
@@ -44,17 +51,10 @@
       <item value="protocol" />
       <item value="protocal" />
       <item value="harbor" />
-      <item value="enable" />
-      <item value="READ COMPLETE" />
-      <item value="block terminated with an error" />
-      <item value="Unrecognized SSL message, plaintext connection" />
-      <item value="producer" />
-      <item value="Cannot parse topic" />
-      <item value="login failed for server_unavailable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
+        <entry key="CHINESE" value="94" />
         <entry key="ENGLISH" value="94" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
