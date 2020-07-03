@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distance" />
+      <item value="距离" />
+      <item value="approaching" />
+      <item value="接近" />
+      <item value="火车" />
       <item value="Disposable Server" />
       <item value="wrapper" />
       <item value="Protocol" />
@@ -46,16 +51,11 @@
       <item value="is Dup" />
       <item value="Mqtt Publish Message" />
       <item value="Pub" />
-      <item value="Topic" />
-      <item value="save Retain" />
-      <item value="Memory Channel Manager" />
-      <item value="Transport Connection" />
-      <item value="connections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="96" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
