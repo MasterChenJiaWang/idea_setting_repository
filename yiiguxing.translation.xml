@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Protocol" />
+      <item value="Transport" />
+      <item value="cancel replay rec" />
+      <item value="retry" />
       <item value="client Connection Attribute Key" />
       <item value="Write Idle" />
       <item value="WriteIdle" />
@@ -21,7 +25,6 @@
       <item value="失效" />
       <item value="内存" />
       <item value="处理器" />
-      <item value="retry" />
       <item value="待发送的数据" />
       <item value="请求" />
       <item value="receive" />
@@ -48,9 +51,6 @@
       <item value="connections" />
       <item value="Retain" />
       <item value="Exceptor Acceptor" />
-      <item value="protocol" />
-      <item value="protocal" />
-      <item value="harbor" />
     </histories>
     <option name="languageScores">
       <map>
