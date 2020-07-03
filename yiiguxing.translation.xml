@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="repeat" />
       <item value="铁路灯" />
       <item value="白色" />
       <item value="路灯" />
@@ -27,7 +28,6 @@
       <item value="on Write Idle" />
       <item value="Direct" />
       <item value="Disposable" />
-      <item value="repeat" />
       <item value="delay Subscription" />
       <item value="retry Pooled Connection Provider" />
       <item value="subscribe" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
+        <entry key="CHINESE" value="98" />
         <entry key="ENGLISH" value="98" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
