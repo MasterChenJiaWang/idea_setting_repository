@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disposable Server" />
       <item value="wrapper" />
       <item value="Protocol" />
       <item value="Transport" />
@@ -50,7 +51,6 @@
       <item value="Memory Channel Manager" />
       <item value="Transport Connection" />
       <item value="connections" />
-      <item value="Retain" />
     </histories>
     <option name="languageScores">
       <map>
