@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="atomic" />
+      <item value="原子" />
       <item value="响应" />
       <item value="battle" />
       <item value="通用" />
@@ -49,12 +51,10 @@
       <item value="invalid" />
       <item value="失效" />
       <item value="内存" />
-      <item value="处理器" />
-      <item value="待发送的数据" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
+        <entry key="CHINESE" value="104" />
         <entry key="ENGLISH" value="104" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
