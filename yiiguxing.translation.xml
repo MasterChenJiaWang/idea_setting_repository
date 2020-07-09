@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="响应" />
       <item value="battle" />
       <item value="通用" />
       <item value="accept" />
@@ -41,7 +42,6 @@
       <item value="retry Pooled Connection Provider" />
       <item value="subscribe" />
       <item value="服务商" />
-      <item value="响应" />
       <item value="Attribute" />
       <item value="client Id entifier" />
       <item value="Identifier rejected" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
