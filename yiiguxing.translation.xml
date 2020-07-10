@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="传感器异常" />
+      <item value="栏木机异常" />
       <item value="atomic" />
       <item value="原子" />
       <item value="响应" />
@@ -49,13 +51,11 @@
       <item value="Identifier rejected" />
       <item value="过期" />
       <item value="invalid" />
-      <item value="失效" />
-      <item value="内存" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
