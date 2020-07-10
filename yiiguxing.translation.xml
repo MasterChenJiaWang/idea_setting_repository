@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="描述" />
+      <item value="warning" />
+      <item value="警告" />
+      <item value="预警" />
       <item value="厂家_id" />
       <item value="厂家" />
       <item value="网关ID" />
@@ -48,14 +51,11 @@
       <item value="delay Subscription" />
       <item value="retry Pooled Connection Provider" />
       <item value="subscribe" />
-      <item value="服务商" />
-      <item value="Attribute" />
-      <item value="client Id entifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
