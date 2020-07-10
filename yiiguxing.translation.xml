@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="描述" />
       <item value="厂家_id" />
       <item value="厂家" />
       <item value="网关ID" />
@@ -12,7 +13,6 @@
       <item value="battle" />
       <item value="通用" />
       <item value="accept" />
-      <item value="描述" />
       <item value="signal" />
       <item value="信号" />
       <item value="信号点" />
