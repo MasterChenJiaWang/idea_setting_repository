@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="异常信号" />
+      <item value="火车信号" />
       <item value="fault" />
       <item value="故障" />
       <item value="描述" />
@@ -10,7 +12,6 @@
       <item value="ply" />
       <item value="行驶" />
       <item value="sensor" />
-      <item value="异常信号" />
       <item value="异常" />
       <item value="摄像头" />
       <item value="原始" />
@@ -50,12 +51,11 @@
       <item value="Disposable Server" />
       <item value="wrapper" />
       <item value="Protocol" />
-      <item value="Transport" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
