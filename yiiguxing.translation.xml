@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="异常" />
       <item value="信号" />
       <item value="摄像头" />
       <item value="监控" />
@@ -17,7 +18,6 @@
       <item value="ply" />
       <item value="行驶" />
       <item value="sensor" />
-      <item value="异常" />
       <item value="原始" />
       <item value="warning" />
       <item value="警告" />
