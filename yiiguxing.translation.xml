@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="感应器" />
+      <item value="铁轨" />
+      <item value="trajectory" />
+      <item value="orbit" />
+      <item value="轨道" />
+      <item value="铁路" />
+      <item value="灯" />
       <item value="描述" />
       <item value="异常" />
       <item value="信号" />
@@ -14,7 +21,6 @@
       <item value="fault" />
       <item value="故障" />
       <item value="传感器" />
-      <item value="感应器" />
       <item value="ply" />
       <item value="行驶" />
       <item value="sensor" />
@@ -45,17 +51,11 @@
       <item value="开启" />
       <item value="拦木机关" />
       <item value="leave" />
-      <item value="离开" />
-      <item value="火车接近" />
-      <item value="火车" />
-      <item value="distance" />
-      <item value="距离" />
-      <item value="approaching" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
