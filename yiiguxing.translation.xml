@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse" />
+      <item value="反解析" />
       <item value="栏木机" />
       <item value="resolution will not be reattempted until the update interval of nexus-aliyun has elapsed or updates are forced" />
       <item value="was cached in the local repository" />
@@ -49,12 +51,10 @@
       <item value="Default Sql Session" />
       <item value="Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@151b2ebb] Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@151b2ebb] Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@151b2ebb]" />
       <item value="repeat" />
-      <item value="铁路灯" />
-      <item value="白色" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
+        <entry key="CHINESE" value="112" />
         <entry key="ENGLISH" value="112" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
