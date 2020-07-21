@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="信号" />
       <item value="控制" />
       <item value="parse" />
       <item value="反解析" />
@@ -18,7 +19,6 @@
       <item value="灯" />
       <item value="描述" />
       <item value="异常" />
-      <item value="信号" />
       <item value="摄像头" />
       <item value="监控" />
       <item value="协议" />
