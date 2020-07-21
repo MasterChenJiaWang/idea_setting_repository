@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="响应" />
+      <item value="信息" />
+      <item value="operating" />
+      <item value="操作" />
       <item value="信号" />
       <item value="控制" />
       <item value="parse" />
@@ -43,19 +47,15 @@
       <item value="栏木机异常" />
       <item value="atomic" />
       <item value="原子" />
-      <item value="响应" />
       <item value="battle" />
       <item value="通用" />
       <item value="accept" />
       <item value="signal" />
-      <item value="信号点" />
-      <item value="Default Sql Session" />
-      <item value="Transaction synchronization committing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@151b2ebb] Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@151b2ebb] Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@151b2ebb]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
