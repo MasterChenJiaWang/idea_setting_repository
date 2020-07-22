@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="过期" />
+      <item value="记录" />
       <item value="原始状态" />
       <item value="操作人" />
       <item value="操作信息" />
       <item value="recording" />
-      <item value="记录" />
       <item value="响应" />
       <item value="信息" />
       <item value="operating" />
@@ -50,7 +51,6 @@
       <item value="网关ID" />
       <item value="传感器异常" />
       <item value="栏木机异常" />
-      <item value="atomic" />
     </histories>
     <option name="languageScores">
       <map>
