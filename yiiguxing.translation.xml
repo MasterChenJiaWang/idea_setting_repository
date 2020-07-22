@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始状态" />
+      <item value="操作人" />
       <item value="操作信息" />
       <item value="recording" />
       <item value="记录" />
@@ -49,8 +51,6 @@
       <item value="传感器异常" />
       <item value="栏木机异常" />
       <item value="atomic" />
-      <item value="原子" />
-      <item value="battle" />
     </histories>
     <option name="languageScores">
       <map>
