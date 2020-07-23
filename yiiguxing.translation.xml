@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="show" />
+      <item value="显示" />
       <item value="reverse" />
       <item value="相反" />
       <item value="孩子" />
@@ -49,13 +51,11 @@
       <item value="fault" />
       <item value="故障" />
       <item value="传感器" />
-      <item value="ply" />
-      <item value="行驶" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="117" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
