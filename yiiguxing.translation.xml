@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="孩子" />
       <item value=" now 0 active connections and 1 inactive connections" />
       <item value="It happens when my server gets attacked by bots, and the server spams all of these until it crashes" />
       <item value="We need the full server log this is just a snippet" />
@@ -50,12 +51,11 @@
       <item value="行驶" />
       <item value="sensor" />
       <item value="原始" />
-      <item value="warning" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
