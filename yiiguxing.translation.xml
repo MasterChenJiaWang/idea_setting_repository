@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="session Present" />
       <item value="show" />
       <item value="显示" />
       <item value="reverse" />
@@ -50,7 +51,6 @@
       <item value="火车信号" />
       <item value="fault" />
       <item value="故障" />
-      <item value="传感器" />
     </histories>
     <option name="languageScores">
       <map>
