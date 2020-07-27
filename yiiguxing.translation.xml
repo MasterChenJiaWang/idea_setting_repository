@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dispose" />
+      <item value="amtlib" />
       <item value="retry" />
       <item value="disposable" />
       <item value="session Present" />
@@ -49,8 +51,6 @@
       <item value="协议" />
       <item value="网关" />
       <item value="厂家类型" />
-      <item value="异常信号" />
-      <item value="火车信号" />
     </histories>
     <option name="languageScores">
       <map>
