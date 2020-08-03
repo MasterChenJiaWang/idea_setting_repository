@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="反解析" />
+      <item value="Parse" />
       <item value="invalidate" />
       <item value="解析" />
       <item value="Custom" />
@@ -44,18 +46,16 @@
       <item value="信号" />
       <item value="控制" />
       <item value="parse" />
-      <item value="反解析" />
       <item value="栏木机" />
       <item value="resolution will not be reattempted until the update interval of nexus-aliyun has elapsed or updates are forced" />
       <item value="was cached in the local repository" />
       <item value="Disposed" />
       <item value="is Disposed" />
-      <item value="感应器" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="1" />
